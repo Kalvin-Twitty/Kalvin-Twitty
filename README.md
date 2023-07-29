@@ -16,7 +16,7 @@ Currently, I'm focused on learning and expanding my knowledge in various program
 ![](https://github-profile-trophy.vercel.app/?username=Kalvin-Twitty&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/synvii) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/synvii) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
